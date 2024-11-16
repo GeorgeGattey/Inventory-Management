@@ -1,4 +1,6 @@
 ### IntelliJ IDEA ###
+.idea/
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -27,3 +29,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Common ###
+# Log files
+*.log
+
+# Node.js dependencies (if you use Node.js)
+node_modules/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
